@@ -1,0 +1,9 @@
+fraud_detection.py - main Python source code
+requirements.txt - dependency manifest for pip
+README.md - setup, experiment design, GitHub and submission instructions
+.gitignore - files excluded from GitHub
+outputs/metrics.json - generated after running the experiment
+outputs/test_predictions.csv - generated after running the experiment
+outputs/score_distribution.png - generated after running the experiment
+Fraud_Detection_Assignment_4_Report.docx - report; insert real screenshot and GitHub URL
+creditcard.csv - download separately from Kaggle; do not upload to GitHub
